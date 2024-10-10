@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+}
+
+div.title{
+    background-color: blanchedalmond;
+    margin-right: 10px;
+}
+
+div.links{
+    background-color: yellowgreen;
+    color: black;
+    margin-right: 10px;
+}
+
+div.parraf{
+    background-color: orange;
+    margin-right: 10px;
+}
+
+div.link2 iframe {
+    width: 600px;
+    height: 400px;
+}
+
+div.fin1{
+    background-color: orange;
+    margin-right: 10px;
+}
+
+div.Fin2{
+    background-color: blue;
+    text-align: center;
+    margin-right: 10px;
+}
+
+p.fin{
+    background-color: yellow;
+    display: inline;
+}
